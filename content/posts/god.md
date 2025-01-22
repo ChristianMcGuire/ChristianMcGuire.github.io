@@ -5,4 +5,4 @@ title = 'God'
 +++
 
 makin a thing yeah 
-![hi](/.png)
+![hi](/duck.png)
